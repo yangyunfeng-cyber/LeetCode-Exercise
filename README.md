@@ -1,2 +1,2 @@
-# leet-code_exercise
-the solution of  leetcode
+# 本项目提供力扣刷题过程中的python解法
+
