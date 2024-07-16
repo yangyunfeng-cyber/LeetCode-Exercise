@@ -13,4 +13,4 @@ class Solution:
                 result[i] = nums[left] ** 2
                 left += 1 # 左指针往右移动
             i -= 1 # 存放结果的指针需要往前平移一位
-        return result
+        return result 
